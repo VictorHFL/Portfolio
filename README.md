@@ -1,4 +1,4 @@
-# Portfolio
+# 💼 Portfolio
 
 Portfólio de projetos front-end desenvolvidos na plataforma Alura.
 
@@ -7,7 +7,7 @@ Portfólio de projetos front-end desenvolvidos na plataforma Alura.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Sumário
+## 📑 Sumário
 
 - [Sobre](#sobre)
 - [Projetos em destaque](#projetos-em-destaque)
@@ -17,14 +17,14 @@ Portfólio de projetos front-end desenvolvidos na plataforma Alura.
 - [Licença](#licença)
 - [Autor](#autor)
 
-## Sobre
+## 📖 Sobre
 
 Página central que reúne projetos de estudo em HTML, CSS e JavaScript. Cada projeto tem repositório próprio com demo estática (basta abrir o `index.html`).
 
 > [!NOTE]
 > Este repositório é o índice. O código de cada demo vive no seu repositório dedicado.
 
-## Projetos em destaque
+## ⭐ Projetos em destaque
 
 | Projeto | Descrição | Repositório |
 | ------- | --------- | ----------- |
@@ -32,14 +32,14 @@ Página central que reúne projetos de estudo em HTML, CSS e JavaScript. Cada pr
 | Calculadora | Calculadora web com teclado, backspace e operações básicas | [VictorHFL/Calculadora](https://github.com/VictorHFL/Calculadora) |
 | Multiplicacao | Gerador de tabuada de 1 a 20 | [VictorHFL/Multiplicacao](https://github.com/VictorHFL/Multiplicacao) |
 
-## Tecnologias
+## 🛠️ Tecnologias
 
 - HTML5 semântico
 - CSS3 (Flexbox, responsivo)
 - JavaScript (DOM, eventos)
 - Google Fonts e embeds do YouTube
 
-## Como executar
+## 🚀 Como executar
 
 Pré-requisitos: navegador moderno. Opcional: VS Code com extensão Live Server.
 
@@ -53,7 +53,7 @@ cd Portfolio
 > [!TIP]
 > Use o Live Server para recarregamento automático ao editar `index.html` e `style.css`.
 
-## Estrutura
+## 📁 Estrutura
 
 ```text
 Portfolio/
@@ -63,11 +63,11 @@ Portfolio/
 └── README.md
 ```
 
-## Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## Autor
+## 👤 Autor
 
 **VictorHFL**
 
