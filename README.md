@@ -1,38 +1,75 @@
-# 🚀 Meu Portfólio no Alura
+# Portfolio
 
-Bem-vindo ao meu portfólio de projetos desenvolvidos na plataforma Alura! Aqui, você encontrará aplicações que exploram conceitos fundamentais de programação e desenvolvimento web.
+Portfólio de projetos front-end desenvolvidos na plataforma Alura.
 
-## 📂 Projetos
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-### 🎬 AluraFlix
-Uma plataforma inspirada na interface do Netflix, onde é possível visualizar vídeos recomendados diretamente do YouTube.
+## Sumário
 
-🔗 [Repositório no GitHub](https://github.com/VictorHFL/AluraFlix)
+- [Sobre](#sobre)
+- [Projetos em destaque](#projetos-em-destaque)
+- [Tecnologias](#tecnologias)
+- [Como executar](#como-executar)
+- [Estrutura](#estrutura)
+- [Licença](#licença)
+- [Autor](#autor)
 
-### 🧮 Calculadora
-Uma aplicação web simples de calculadora, desenvolvida para praticar manipulação de eventos e operações matemáticas com JavaScript.
+## Sobre
 
-🔗 [Repositório no GitHub](https://github.com/VictorHFL/Calculadora)
+Página central que reúne projetos de estudo em HTML, CSS e JavaScript. Cada projeto tem repositório próprio com demo estática (basta abrir o `index.html`).
 
-### ✖️ Multiplicação
-Projeto que visa reforçar habilidades de lógica de programação, focado na multiplicação de números com interação dinâmica.
+> [!NOTE]
+> Este repositório é o índice. O código de cada demo vive no seu repositório dedicado.
 
-🔗 [Repositório no GitHub](https://github.com/VictorHFL/Multiplicacao)
+## Projetos em destaque
 
-## 🛠️ Tecnologias Utilizadas
+| Projeto | Descrição | Repositório |
+| ------- | --------- | ----------- |
+| AluraFlix | Catálogo de vídeos estilo Netflix com embeds do YouTube | [VictorHFL/AluraFlix](https://github.com/VictorHFL/AluraFlix) |
+| Calculadora | Calculadora web com teclado, backspace e operações básicas | [VictorHFL/Calculadora](https://github.com/VictorHFL/Calculadora) |
+| Multiplicacao | Gerador de tabuada de 1 a 20 | [VictorHFL/Multiplicacao](https://github.com/VictorHFL/Multiplicacao) |
 
-Durante meus estudos na Alura, explorei diversas tecnologias:
+## Tecnologias
 
-- **Front-end:** HTML, CSS, JavaScript
-- **Bibliotecas:** Manipulação de fontes via Google Fonts
-- **Integrações:** Embeds de vídeos do YouTube
-- **Lógica de Programação:** Eventos, cálculos matemáticos e manipulação do DOM
+- HTML5 semântico
+- CSS3 (Flexbox, responsivo)
+- JavaScript (DOM, eventos)
+- Google Fonts e embeds do YouTube
 
-## 📌 Como Executar os Projetos?
+## Como executar
 
-Cada projeto tem seu próprio repositório no GitHub contendo instruções detalhadas de instalação e execução. Basta acessar os links acima para conferir os códigos e experimentá-los.
+Pré-requisitos: navegador moderno. Opcional: VS Code com extensão Live Server.
 
-## 📧 Contato
-- ✉️ Email: yvictorhfl@gmail.com
+```bash
+git clone https://github.com/VictorHFL/Portfolio.git
+cd Portfolio
+# opção 1: abra index.html no navegador
+# opção 2: npx serve .
+```
 
----
+> [!TIP]
+> Use o Live Server para recarregamento automático ao editar `index.html` e `style.css`.
+
+## Estrutura
+
+```text
+Portfolio/
+├── index.html
+├── style.css
+├── img/
+└── README.md
+```
+
+## Licença
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
+
+## Autor
+
+**VictorHFL**
+
+- GitHub: [@VictorHFL](https://github.com/VictorHFL)
+- E-mail: yvictorhfl@gmail.com
