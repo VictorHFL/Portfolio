@@ -15,7 +15,6 @@ Portfólio de projetos front-end desenvolvidos na plataforma Alura.
 - [Como executar](#como-executar)
 - [Estrutura](#estrutura)
 - [Licença](#licença)
-- [Autor](#autor)
 
 ## 📖 Sobre
 
@@ -67,9 +66,3 @@ Portfolio/
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para detalhes.
 
-## 👤 Autor
-
-**VictorHFL**
-
-- GitHub: [@VictorHFL](https://github.com/VictorHFL)
-- E-mail: yvictorhfl@gmail.com
